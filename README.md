@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paul-kuihi
 - 👀 I’m interested in Geese
 - 🌱 I’m currently learning Business
-- 💞️ I’m looking to collaborate on Sweet Ideas
+- 💞️ I’m passionate about Building Great Teams
 - 📫 How to reach me paul@kuihi.io
 
 <!---
